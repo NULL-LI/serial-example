@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/null/ros_ws/serial-example/build/serial-example-qt-build/devel/setup.sh
