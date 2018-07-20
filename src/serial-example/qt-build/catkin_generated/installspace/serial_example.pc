@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: serial_example
+Description: Description of serial_example
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: serial std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/null/ros_ws/serial-example/src/serial-example/qt-build/devel
+
+Name: serial_example
+Description: Description of serial_example
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/null/ros_ws/serial-example/src/serial-example/qt-build/devel/lib 
+Requires: serial std_msgs

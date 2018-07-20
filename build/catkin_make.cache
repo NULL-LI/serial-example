@@ -1,0 +1,2 @@
+serial-example
+-DCATKIN_DEVEL_PREFIX=/home/null/ros_ws/serial-example/devel -DCMAKE_INSTALL_PREFIX=/home/null/ros_ws/serial-example/install -G Unix Makefiles
